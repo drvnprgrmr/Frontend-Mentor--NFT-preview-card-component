@@ -128,21 +128,3 @@ span:hover {
     cursor: pointer;
     color: hsl(178, 100%, 50%);
 }
-
-@media (max-width: 376px) {
-    .card {
-        width: 19rem;
-    }
-
-    .credit > img {
-        width: 2rem;
-        height: 2rem;
-        margin-right: 1rem;
-    }
-}
-
-@media (min-width: 376px) {
-    .card {
-        width: 30rem;
-    }
-}
